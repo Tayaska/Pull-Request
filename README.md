@@ -2,4 +2,9 @@
 
 Resolving conflicts in a project
 
-## New feature in this file 
+
+"## Feature-branch " 
+
+These are changes from the feature branch.
+New functionality has been added.
+
